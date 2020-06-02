@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Python</ID>
+  <OriginalElement>model.charge.Charge</OriginalElement>
+  <nodes>
+    <node x="1095.8733333333334" y="870.5">view.interface.Interface</node>
+    <node x="774.8733333333334" y="848.0">model.petrol.Petrol</node>
+    <node x="119.25" y="378.0">_collections_abc.Iterable</node>
+    <node x="1376.8733333333334" y="848.0">controller.data_control.Controller</node>
+    <node x="999.6608333333335" y="0.0">_collections_abc.Hashable</node>
+    <node x="0.0" y="848.0">model.charge.Charge</node>
+    <node x="321.00000000000006" y="826.0">model.Accounting.Accounting</node>
+    <node x="301.25000000000006" y="367.0">_collections_abc.Iterator</node>
+    <node x="743.6608333333335" y="147.0">object</node>
+    <node x="553.3733333333334" y="378.0">_collections_abc.Sized</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="model.charge.Charge" target="_collections_abc.Iterator">
+      <point x="-37.625" y="-125.5" />
+      <point x="112.875" y="766.0" />
+      <point x="332.41666666666674" y="766.0" />
+      <point x="-62.333333333333314" y="59.5" />
+    </edge>
+    <edge source="object" target="_collections_abc.Hashable">
+      <point x="0.0" y="-279.5" />
+      <point x="0.0" y="48.5" />
+    </edge>
+    <edge source="model.petrol.Petrol" target="_collections_abc.Sized">
+      <point x="37.625" y="-125.5" />
+      <point x="962.9983333333334" y="726.0" />
+      <point x="686.7066666666667" y="726.0" />
+      <point x="53.33333333333337" y="48.5" />
+    </edge>
+    <edge source="model.charge.Charge" target="_collections_abc.Iterable">
+      <point x="-112.875" y="-125.5" />
+      <point x="37.625" y="756.0" />
+      <point x="146.25" y="756.0" />
+      <point x="-54.0" y="48.5" />
+    </edge>
+    <edge source="controller.data_control.Controller" target="object">
+      <point x="0.0" y="-125.5" />
+      <point x="1527.3733333333334" y="806.0" />
+      <point x="1359.2608333333333" y="806.0" />
+      <point x="273.5999999999999" y="279.5" />
+    </edge>
+    <edge source="model.Accounting.Accounting" target="_collections_abc.Sized">
+      <point x="42.62499999999994" y="-147.5" />
+      <point x="534.125" y="786.0" />
+      <point x="633.3733333333334" y="786.0" />
+      <point x="0.0" y="48.5" />
+    </edge>
+    <edge source="view.interface.Interface" target="object">
+      <point x="0.0" y="-103.0" />
+      <point x="1226.3733333333334" y="806.0" />
+      <point x="1222.4608333333335" y="806.0" />
+      <point x="136.79999999999995" y="279.5" />
+    </edge>
+    <edge source="model.charge.Charge" target="_collections_abc.Sized">
+      <point x="37.625" y="-125.5" />
+      <point x="188.125" y="776.0" />
+      <point x="580.04" y="776.0" />
+      <point x="-53.33333333333337" y="48.5" />
+    </edge>
+    <edge source="model.Accounting.Accounting" target="_collections_abc.Iterable">
+      <point x="-127.87500000000006" y="-147.5" />
+      <point x="363.625" y="756.0" />
+      <point x="200.25" y="756.0" />
+      <point x="0.0" y="48.5" />
+    </edge>
+    <edge source="model.petrol.Petrol" target="_collections_abc.Iterable">
+      <point x="-112.875" y="-125.5" />
+      <point x="812.4983333333334" y="746.0" />
+      <point x="254.25" y="746.0" />
+      <point x="54.0" y="48.5" />
+    </edge>
+    <edge source="model.petrol.Petrol" target="object">
+      <point x="112.875" y="-125.5" />
+      <point x="1038.2483333333334" y="806.0" />
+      <point x="1085.6608333333334" y="806.0" />
+      <point x="0.0" y="279.5" />
+    </edge>
+    <edge source="model.Accounting.Accounting" target="_collections_abc.Iterator">
+      <point x="-42.62500000000006" y="-147.5" />
+      <point x="448.875" y="766.0" />
+      <point x="394.75000000000006" y="766.0" />
+      <point x="0.0" y="59.5" />
+    </edge>
+    <edge source="model.petrol.Petrol" target="_collections_abc.Iterator">
+      <point x="-37.625" y="-125.5" />
+      <point x="887.7483333333334" y="736.0" />
+      <point x="457.08333333333337" y="736.0" />
+      <point x="62.333333333333314" y="59.5" />
+    </edge>
+    <edge source="model.Accounting.Accounting" target="object">
+      <point x="127.87499999999994" y="-147.5" />
+      <point x="619.375" y="806.0" />
+      <point x="948.8608333333335" y="806.0" />
+      <point x="-136.79999999999995" y="279.5" />
+    </edge>
+    <edge source="model.charge.Charge" target="object">
+      <point x="112.875" y="-125.5" />
+      <point x="263.375" y="796.0" />
+      <point x="812.0608333333334" y="796.0" />
+      <point x="-273.6" y="279.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7817703768624014" x="839.0" y="560.5" />
+  <SelectedNodes>
+    <node>controller.data_control.Controller</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+</Diagram>
+
